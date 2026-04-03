@@ -1,10 +1,11 @@
 {
   "name": "shur-api",
   "version": "1.0.0",
-  "scripts": {
-    "build": "echo 'No build required'"
-  },
+  "main": "api/index.js",
   "engines": {
     "node": "18.x"
+  },
+  "scripts": {
+    "build": "echo 'No build required'"
   }
 }
