@@ -1,5 +1,5 @@
 // api/sub.js
-const GITHUB_SUB_URL = 'https://raw.githubusercontent.com/citer1852-lab/SHUR-SUB/main/sub.txt'; // ваша ссылка
+const GITHUB_SUB_URL = 'https://citer1852-lab.github.io/SHUR-SUB/sub.txt'; // ваша ссылка
 
 export default async function handler(req, res) {
   try {
